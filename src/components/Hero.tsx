@@ -12,7 +12,7 @@ export default function Hero() {
         <div className="max-w-4xl mx-auto text-center">
           <div className="mb-8 relative">
             <img
-              src="https://images.unsplash.com/photo-1636473407285-817359a30797"
+              src="https://images.unsplash.com/photo-1525373698358-041e3a460346"
               alt="Sonjil Jain"
               className="w-40 h-40 rounded-full mx-auto border-4 border-blue-500 shadow-xl"
             />
